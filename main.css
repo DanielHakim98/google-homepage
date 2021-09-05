@@ -1,0 +1,36 @@
+.search-container {
+    background-color: gray;
+    position: relative;
+    padding: 10px;
+    border-radius: 20px;
+    height: 50px;
+    top: 40vh;
+    margin-left: auto;
+    margin-right: auto;
+    /* transform:translate(-50% -50%);  */
+    display:flex;
+    justify-content: center;
+    
+    
+} 
+
+.search-text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 228px;
+    transform:translate(-50% -50%)
+}
+
+.search-button {
+    position: absolute;
+    display: flex;
+    
+    justify-content: center;
+    padding: 10px;
+    background-color: ghostwhite;
+    padding: 10px; 
+}
+
+
+
+
