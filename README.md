@@ -12,3 +12,14 @@ skills I used to complete the project and what new things I've learned.
 -This note also will be my self-reflection after finishing the project. Wish me
 luck!
 
+
+11/9/21
+-I have learned and applied a lot new css property in order to build this website. Those are:
+    -Margin, Border, Padding
+    -Flexbox
+    -Pseudo condition (Hover, Active etc.)
+-It's important to understand those because those helped me to manage and arrange the location of navigation
+bar, photo of google, search box, search button and footer.
+
+17/9/21
+-just playing around with dark mode toggle. not working properly though.

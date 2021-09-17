@@ -1,4 +1,5 @@
 
+
 /*Navigation bar*/
 nav{
     /* background-color: aquamarine;  */
@@ -135,15 +136,17 @@ nav ul a:hover{
     background-color: #f8f9fa;
 }
 
-footer .others{
-    display: flex;
-}
-
 footer .country{
     height: 3em;
     box-sizing: border-box;
     padding: 1em 2em;
     border-bottom: 1px solid #dadce0;
+}
+
+
+footer .others{
+    display: flex;
+    flex-wrap:wrap;
 }
 
 .left,.right{
@@ -164,7 +167,6 @@ footer .country{
 .right{
     /* background-color: indianred; */
     margin-left: auto;
-    align-content: center;
     padding-right: 20px;
     
 }
@@ -178,4 +180,8 @@ footer ul a:hover{
     color: inherit;
     text-decoration:underline;
 }
-
+/*Dark mode testing*/
+/* .dark-mode {
+    background-color: #202124;
+    color: white;
+  } */
