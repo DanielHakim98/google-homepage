@@ -12,6 +12,8 @@ skills I used to complete the project and what new things I've learned.
 -This note also will be my self-reflection after finishing the project. Wish me
 luck!
 
+Link to the webpage: https://danielhakim98.github.io/google-homepage/
+
 
 11/9/21
 -I have learned and applied a lot new css property in order to build this website. Those are:
@@ -23,3 +25,6 @@ bar, photo of google, search box, search button and footer.
 
 17/9/21
 -just playing around with dark mode toggle. not working properly though.
+
+28/9/21
+-Add link of the webpage to this file.
