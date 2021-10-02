@@ -10,7 +10,7 @@ skills I used to complete the project and what new things I've learned.
 * This note also will be my self-reflection after finishing the project. Wish me
 luck!
 
-Click [here](https://danielhakim98.github.io/google-homepage/ "Google Homepage") to go the website.
+Click [here](https://danielhakim98.github.io/google-homepage/ "Google Homepage") to go to the website.
 ---
 
 11/9/21
